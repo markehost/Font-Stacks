@@ -1,0 +1,122 @@
+/* 
+ *	Away Back - Better Font Stack
+ * 
+ *	http://www.awayback.com/revised-font-stack/ 
+ */
+
+
+/*\		Garamond	\*/
+.garamond {
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+/*\		Lucida Bright	\*/
+.lucida-bright {
+	font-family: "Lucida Bright", Georgia, serif;
+}
+
+/*\		Palatino	\*/
+.palantino {
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+/*\		Big Caslon	\*/
+.big-caslon {
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
+
+/*\		Didot	\*/
+.didot {
+	font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+/*\		Baskerville	\*/
+.baskerville {
+	font-family: Baskerville, "Baskerville old face", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+/*\		Hoefler Text	\*/
+.hoefler-text {
+	font-family: "Hoefler Text", "Baskerville old face", Garamond, "Times New Roman", serif;
+}
+
+/*\		bodoni	\*/
+.bodoni {
+	font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+/*\		goudy-old-style	\*/
+.goudy-old-style {
+	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+
+/*\		Constantia	\*/
+.constantia {
+	font-family: Constantia, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+/*\		Cambria	\*/
+.Cambria {
+	font-family: Cambria, Georgia, serif;
+}
+/*\		book-antiqua	\*/
+.book-antiqua {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+
+
+
+
+
+/*\		optima	\*/
+.optima {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+}
+/*\		futura	\*/
+.futura {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+/*\		gill-sans	\*/
+.gill-sans {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+/*\		trebuchet	\*/
+.trebuchet {
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+/*\		helvetica-neue	\*/
+.helvetica-neue {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/*\		Verdana	\*/
+.Verdana {
+	font-family: Verdana, Geneva, sans-serif;
+}
+/*\		lucida-grande	\*/
+.lucida-grande {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+/*\		geneva	\*/
+.geneva {
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
+}
+/*\		segoe	\*/
+.segoe {
+	font-family: Segoe, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+/*\		candara	\*/
+.candara {
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+/*\		calibri	\*/
+.calibri {
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+/*\		franklin-gothic-medium	\*/
+.franklin-gothic-medium {
+	font-family: "Franklin Gothic Medium", Arial, sans-serif;
+}
+/*\		tahoma	\*/
+.tahoma {
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
